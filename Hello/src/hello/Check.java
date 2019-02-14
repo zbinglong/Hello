@@ -3,7 +3,7 @@ package hello;
 public class Check {
 
 	public static void main(String[] args) {
-		System.out.println("nini");
+		System.out.println("zheshiyigeceshi");
 
 	}
 
